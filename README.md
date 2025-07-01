@@ -51,7 +51,7 @@ riversystem.exe
 
 ## 📁 Project Structure
 ```
-13_P_F_cityTradeing_Cpp/
+city-trading-simulation-cpp/
 ├── Boat.cpp/.h         # Boat class
 ├── City.cpp/.h         # City class
 ├── Inventory.cpp/.h    # Inventory management
