@@ -1,0 +1,26 @@
+# Ignore build artifacts
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Ignore debug files
+*.dSYM/
+*.pdb
+*.idb
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.tmp 
